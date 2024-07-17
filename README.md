@@ -1,0 +1,1 @@
+# DINO_SAM_CLIP_resnet34
